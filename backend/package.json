@@ -19,7 +19,9 @@
     "lodash": "^4.17.4",
     "mongoose": "^4.7.0",
     "mongoose-paginate": "^5.0.3",
+    "node-pre-gyp": "^0.13.0",
     "node-restful": "^0.2.5",
+    "nodeunit": "^0.11.3",
     "pm2": "^2.1.5"
   },
   "devDependencies": {
